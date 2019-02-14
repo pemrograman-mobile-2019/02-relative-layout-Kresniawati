@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TugasRelativeLayout</string>
+    <string name="top">Top</string>
+    <string name="bottom">Bottom</string>
+    <string name="left_below_top">Left Below Top</string>
+    <string name="right_above_top">Right Above Top</string>
+</resources>
